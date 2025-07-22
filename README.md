@@ -11,3 +11,5 @@ pip install pyserial vosk sounddevice
 sudo apt update
 sudo apt install libportaudio2 ffmpeg
 ```
+
+After that you need to pin the two leds, first one on pin 4 and the second on pin 7
